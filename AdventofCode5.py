@@ -168,7 +168,7 @@ for line in inputfile:
 
             i = i + 1
 if s == 3:
-    topboxes = str(S1[-1])            
+    topboxes = str(S1[-1]) + str(S2[-1]) + str(S3[-1])           
 if s == 9:
     topboxes = str(S1[-1]) + str(S2[-1]) + str(S3[-1]) + str(S4[-1]) + str(S5[-1]) + str(S6[-1]) + str(S7[-1]) + str(S8[-1]) + str(S9[-1])
 print('Topboxes are: ' + topboxes)    
