@@ -1,0 +1,23 @@
+$ cd /
+$ ls
+dir a
+1 aa.txt
+$ cd a
+$ ls
+dir b
+10 bb.txt
+$ cd b
+$ ls
+dir c
+100 cc.txt
+$ cd c
+$ ls
+dir d
+1000 dd.txt
+$ cd d
+$ ls
+dir e
+10000 ee.txt
+$ cd e
+$ ls
+100000 ff.txt
